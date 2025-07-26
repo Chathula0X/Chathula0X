@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500" />
+  <img src="https://i.pinimg.com/564x/.../developers-coding.gif" width="500" alt="Frontend dev coding together GIF" />
 </p>
 
 <h1 align="center">Hi there! 👋 I'm [Your Name]</h1>
