@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi there! 👋 I'm Chathula Madusanka</h1>
-<h3 align="center">💻 Frontend Developer | 🎨 UI/UX Designer | 🚀 Creative Thinker</h3>
+<h3 align="center">Full Stack Developer | 💻 Frontend Developer | 🎨 UI/UX Designer | 🚀 Creative Thinker</h3>
 
 ---
 
