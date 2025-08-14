@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Frontend dev coding together GIF" />
 </p>
 
-<h1 align="center">Hi there! 👋 I'm [Your Name]</h1>
+<h1 align="center">Hi there! 👋 I'm Chathula Madusanka</h1>
 <h3 align="center">💻 Frontend Developer | 🎨 UI/UX Designer | 🚀 Creative Thinker</h3>
 
 ---
